@@ -5,7 +5,7 @@
 
 ### Homework1 
 
-[Selection![Alt homework11](./homework/homework1.jpg)
+[Selection![Alt homework11](./homework/homework1.gif)
 Sorting](./homework/SelectionSorting.pde)
 
 
